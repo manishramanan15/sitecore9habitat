@@ -1,0 +1,18 @@
+﻿---
+ID: "1995806f-0a84-42b5-93b0-88f0e2ff872c"
+Parent: "5673c577-b428-4bfc-95e2-42921f6649ad"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Poferries/Project
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/folder_window.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20151030T173304Z
